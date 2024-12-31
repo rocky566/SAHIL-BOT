@@ -2,7 +2,7 @@ module.exports.config = {
   name: "antibd",
   eventType: ["log:user-nickname"],
   version: "0.0.1",
-  credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩",
+  credits: "𝙈𝙧 𝙎𝙖𝙝𝙞𝙡",
   description: "Against changing Bot's nickname"
 };
 
