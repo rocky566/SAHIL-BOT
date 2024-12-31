@@ -2,7 +2,7 @@ module.exports.config = {
     name: "out",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝙈𝙧 𝙎𝙖𝙝𝙞𝙡",
     description: "",
     commandCategory: "Admin",
     usages: "out [id]",
